@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Accueil](README.md)
+
+## Commandes
+
+* [Basiques](commandes/basiques.md)
 
